@@ -43,11 +43,21 @@ style = "github-dark"
   icon = "solid"
   buttonMargin = "0.2em"
 
-  [params.utterances]
-  repo = "https://fabreg/fabreg.github.io" # https://utteranc.es/#heading-repository
-  issueTerm = "pathname" # https://utteranc.es/#heading-mapping
-  label = "" # https://utteranc.es/#heading-issue-label
-  theme = "github-dark" # https://utteranc.es/#heading-theme
+
+[params.giscus] # https://giscus.app
+  repo = "fabreg/fabreg.github.io"
+  repoID = "R_kgDOLcn56A"
+  category = "General"
+  categoryID = "DIC_kwDOLcn56M4Cdymb"
+  mapping = "pathname"
+  term = ""
+  strict = "0"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "bottom"
+  theme = "dark"
+  lang = "en"
+  loading = ""
 
 [taxonomies]
   category = "categories"
