@@ -44,7 +44,7 @@ style = "github-dark"
   buttonMargin = "0.2em"
 
   [params.utterances]
-  repo = "https://fabreg.github.io" # https://utteranc.es/#heading-repository
+  repo = "https://fabreg/fabreg.github.io" # https://utteranc.es/#heading-repository
   issueTerm = "pathname" # https://utteranc.es/#heading-mapping
   label = "" # https://utteranc.es/#heading-issue-label
   theme = "github-dark" # https://utteranc.es/#heading-theme
