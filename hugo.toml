@@ -6,7 +6,7 @@ defaultcontentlanguage = "en"
 
 paginate = 20
 
-disqusShortname = "fabrizioregal-li"
+#disqusShortname = "fabrizioregal-li"
 
 
 [markup.highlight]
@@ -42,6 +42,12 @@ style = "github-dark"
   size = "small"
   icon = "solid"
   buttonMargin = "0.2em"
+
+  [params.utterances]
+  repo = "https://fabreg.github.io" # https://utteranc.es/#heading-repository
+  issueTerm = "pathname" # https://utteranc.es/#heading-mapping
+  label = "" # https://utteranc.es/#heading-issue-label
+  theme = "github-dark" # https://utteranc.es/#heading-theme
 
 [taxonomies]
   category = "categories"
