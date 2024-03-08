@@ -9,6 +9,7 @@ tags = ["aws", "mwaa"]
 categories = []
 externalLink = ""
 series = []
+disableShare = false
 +++
 
 Recently I started using [Amazon MWAA](https://aws.amazon.com/managed-workflows-for-apache-airflow/?nc1=h_ls)  (also know as Amazon Managed Workflow for Apache Airflow)  and I would like to share my experience.
