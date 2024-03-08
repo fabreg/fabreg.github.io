@@ -11,7 +11,7 @@
       {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
     ·
     {{ end }}
-    [Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>] · <a href="/privacypolicy">PrivacyPolicy</a> <br>Never forget <a href=https://www.facebook.com/roberta.franzetti.9>you</a><img class="emoji" alt="heart" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">
+    [Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>] · <a href="/privacypolicy">PrivacyPolicy</a> <!-- <br>Never forget <a href=https://www.facebook.com/roberta.franzetti.9>you</a><img class="emoji" alt="heart" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"> -->
     {{ if (and .Site.Params.commit .GitInfo) }}
       [<a href="{{ .Site.Params.commit }}/{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .GitInfo.AbbreviatedHash }}</a>]
     {{ end }}
