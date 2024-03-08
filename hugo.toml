@@ -38,9 +38,9 @@ style = "github-dark"
 
 
   [params.shareButtons]
-  networks = [ "facebook", "twitter", "email", "linkedin" ]
-  size = "small"
-  icon = "solid"
+  networks = [ "facebook", "twitter", "email", "linkedin", ]
+  size = "medium"         # small,medium,large
+  icon = "solid"          # solid,solidcircle
   buttonMargin = "0.2em"
 
 
