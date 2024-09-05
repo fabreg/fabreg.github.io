@@ -161,8 +161,8 @@ Here we go!
 
 Wait a couple of minutes and you will see some interesting data of your OpenWRT router.
 
-![librenms-one](https://ibb.co/m6TXyh0)
+![librenms-one](/images/prima.png)
 
-![librenms-two](https://ibb.co/BCYqdB2)
+![librenms-two](/images/seconda.png)
 
 If you are interested in configuring alerts you can check out this video: https://www.youtube.com/watch?v=J7ZBs2ut-Ho&t=98s
