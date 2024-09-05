@@ -157,6 +157,12 @@ Restart the snmpd with */etc/init.d/snmpd restart*
 Connect to webUI of LibreNMS: http://localhost:8000 and the the device or simply navigate to http://localhost:8000/addhost
 Specify the ip of the router, the snmp community name, the version of snmp and the upd port (161)  
 
-Here we go! 
+Here we go!
+
 Wait a couple of minutes and you will see some interesting data of your OpenWRT router.
+
+![librenms-one](https://ibb.co/m6TXyh0)
+
+![librenms-two](https://ibb.co/BCYqdB2)
+
 If you are interested in configuring alerts you can check out this video: https://www.youtube.com/watch?v=J7ZBs2ut-Ho&t=98s
