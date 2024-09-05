@@ -1,14 +1,15 @@
 +++ 
-draft = true
+draft = false
 date = 2024-09-05T16:55:35+02:00
-title = ""
-description = ""
+title = "Docker, LibreNMS and OpenWRT"
+description = "How to use LibreNMS in a Docker container for monitoring OpenWRT based routers"
 slug = ""
-authors = []
-tags = []
+authors = ["Fabrizio Regalli"]
+tags = ["librenms","docker","openwrt"]
 categories = []
 externalLink = ""
 series = []
+disableShare = false
 +++
 
 # Docker, LibreNMS and OpenWRT
