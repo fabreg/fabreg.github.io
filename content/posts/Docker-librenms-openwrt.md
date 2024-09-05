@@ -19,7 +19,9 @@ I recently bought a [Flint2 router](https://www.gl-inet.com/products/gl-mt6000/)
 Before writing this guide, I tried different solutions:
 
 [Grafana](https://grafana.net) + [Prometheus](https://Prometheus.io)
+
 [Zabbix](https://zabbix.com)
+
 [Checkmk](https://checkmk.com/)
 
 As you can image, every solution has pros and cons but I don't want to use this blog post for describing them: you should choose based on your need. The first question is: which kind of monitoring I need for OpenWRT? Metrics? Link Disconnections? Bandwidth?  What else?
