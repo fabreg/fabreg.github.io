@@ -88,7 +88,7 @@ style = "github-dark"
   url = "https://twitter.com/riztwi/"
 [[params.social]]
   name = "Strava"
-  icon = "fa-brands fa-strava"
+  icon = "fa-brands fa-strava fa-2x"
   weight = 4
   url = "https://www.strava.com/athletes/25687938"
 
