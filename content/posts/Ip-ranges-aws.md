@@ -1,8 +1,18 @@
 +++
-title = 'Ip Ranges Aws'
+draft = false
 date = 2025-03-19T09:07:38+01:00
-draft = true
+title = "Notification on AWS IP range changes"
+description = "Getting notified when AWS ip range will change"
+slug = ""
+authors = ["Fabrizio Regalli"]
+tags = ["aws", "sns", "eventbridge", "s3"]
+categories = []
+externalLink = ""
+series = []
+disableShare = false
 +++
+
+
 
 # Notifications for AWS IP Range Changes
 
